@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="RPA_Challenge.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2020 09:34:13</Property>
+      <Property Name="RunDuration">00:01:47</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RPA_Challenge2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2020 12:49:54</Property>
+      <Property Name="RunDuration">00:02:31</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

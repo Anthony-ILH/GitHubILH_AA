@@ -1,0 +1,8 @@
+(18/10/2021 10:45:53) Starting Split Billing report download
+(18/10/2021 10:46:24) Entered username and password, waiting for report view page to open
+(18/10/2021 10:46:54) Report viewer page open, clicking report link
+(18/10/2021 10:46:54) Report PC10 page open
+(18/10/2021 10:47:45) Report PC10 saved
+(18/10/2021 10:47:56) Report PC18 page open
+(18/10/2021 10:48:56) Report PC10 saved
+(18/10/2021 10:49:44) Process Complete, sending email

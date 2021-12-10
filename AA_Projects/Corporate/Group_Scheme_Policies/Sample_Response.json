@@ -1,0 +1,109 @@
+{
+	"code": 200,
+	"data": {
+		"ttp": 4725.64,
+		"resource_id": 1568508,
+		"resource": {
+			"id": 1568508,
+			"policy_number": "P1734868",
+			"policy_year_id": 5179596,
+			"broker_contact_id": 2726650,
+			"affinity_contact_id": 2,
+			"affinity_name": "None",
+			"affinity_member_number": "0000000",
+			"scheme_group_id": 3960,
+			"scheme_id": 9430,
+			"scheme_name": "Apple Operations Europe",
+			"start_date": "2021-09-24T00:00:00",
+			"end_date": "2021-12-31T00:00:00",
+			"renewal_date": "2022-09-24T00:00:00",
+			"policy_status": "Quote",
+			"contact_preference": "Electronic",
+			"policy_history": [{
+				"activity_key": 12017387,
+				"change": "New Policy",
+				"policy_from_date": "2021-09-24T00:00:00",
+				"policy_to_date": "2021-12-31T00:00:00",
+				"policy_number": "P1734868",
+				"activity_date": "2021-09-24T00:00:00",
+				"amount_change_gross": 446.41,
+				"amount_change_net": 347.50,
+				"trs": 54.25,
+				"current_plan": "Better Select ILH",
+				"previous_plan": "No change"
+			}],
+			"member_self_service": false,
+			"policy_holder_first_name": "Sean",
+			"policy_holder_last_name": "O'Grady",
+			"marketing_consent": false,
+			"total_premium": 347.50,
+			"total_net_premium_grp": 347.50,
+			"total_net_premium_mbr": 0.00,
+			"members": [{
+				"member_id": 3751817,
+				"member_number": "3788848",
+				"policy_activity_id": 12017387,
+				"policy_member_id": 16017238,
+				"policy_id": 0,
+				"join_date": "2021-09-24T00:00:00",
+				"first_insured": "2021-09-24T00:00:00",
+				"end_date": "2021-12-31T00:00:00",
+				"member_type": "Policyholder",
+				"firstname": "Sean",
+				"lastname": "O'Grady",
+				"title_id": 1,
+				"title": "Mr",
+				"ppsn": "7620505B",
+				"staff_number": "640862",
+				"gender": "Male",
+				"date_of_birth": "1994-02-21T00:00:00",
+				"age_in_policy": 27,
+				"mobile_phone": "0861234567",
+				"email": "sogrady@apple.com",
+				"postal_address": {
+					"address01": "Hilltop 22a, Castleowen , Blarney",
+					"address04": "Cork",
+					"county_id": 703,
+					"county": "Co Cork"
+				},
+				"cover": {
+					"plan_id": "156H3D1",
+					"plan": "Better Select ILH",
+					"hospital_care_level_id": 3,
+					"day_to_day_level_id": 1,
+					"packages": [{
+						"package_id": 31,
+						"package": "You Extra"
+					}, {
+						"package_id": 33,
+						"package": "Travel Extra"
+					}]
+				},
+				"premium": {
+					"levy": 121.78,
+					"gross_premium": 446.41,
+					"artc": 0.00,
+					"loading": 0.00,
+					"trs": 54.25,
+					"discount": 44.64,
+					"type_of_discount": "N/A",
+					"net_premium": 401.75,
+					"total_net_premium": 347.50,
+					"premium_gross_of_artc": 446.41,
+					"total_net_chargeble_grp": 0.0,
+					"total_net_chargeble_mbr": 0.0
+				}
+			}],
+			"payment_method": "None",
+			"claim_payment_method": "None",
+			"payment_frequency": "Unknown",
+			"payment_schedule": [],
+			"quote_policy_document": "http://uat1.irishlifehealth.ie/secure/policydocs/policydocumentation.aspx?id=1-611-12017387-119f087914e64dbfa3074d1ba43383",
+			"quote_policy_document_id": 0,
+			"is_in_renewal_period": false,
+			"is_renewal_invitation_present": false,
+			"can_create_renewal_invitation": false,
+			"suppress_quote_documents": false
+		}
+	}
+}

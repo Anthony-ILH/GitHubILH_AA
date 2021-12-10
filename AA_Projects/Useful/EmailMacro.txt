@@ -1,0 +1,57 @@
+Option Explicit
+Private WithEvents olItems As Outlook.Items
+
+Private Sub Application_Startup()
+
+    Dim olApp As Outlook.Application
+    Dim olNs As Outlook.NameSpace
+
+    Set olApp = Outlook.Application
+    Set olNs = Application.GetNamespace("MAPI")
+    Set olItems = olNs.GetDefaultFolder(olFolderInbox).Items
+
+End Sub
+
+Private Sub olItems_ItemAdd(ByVal objItem As Object)
+    
+    ' Create Variables
+    Dim objFS As New Scripting.FileSystemObject
+    Dim objFile As Scripting.TextStream
+    Dim Folder As Folder
+    Dim objNS As Outlook.NameSpace: Set objNS = GetNamespace("MAPI")
+    Dim olFolder As Outlook.MAPIFolder: Set olFolder = objNS.GetDefaultFolder(olFolderInbox)
+    Dim olApp As Outlook.Application
+    Dim senderAddress As String
+    Dim filePath As String
+    Dim strFile As String
+    Dim objCC As String
+
+    ' Assign filePath & fileName to variable
+    filePath = "C:\Users\ilhtestbot\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks\Inbox\"
+    
+    On Error Resume Next
+    ' Loop through Outlook inbox
+    For Each objItem In olFolder.Items
+        If (objItem.UnRead) Then ' If the email is unread
+            If objItem.Subject = "Robot Task" Then ' If subject is Robot Task
+                senderAddress = objItem.Sender.GetExchangeUser().PrimarySmtpAddress ' Gets full email address from exchange
+                objCC = objItem.CC ' Assigns objItem.CC to variable
+                strFile = filePath & Format(Now, "dd-MM-yyyy_HHmmss") & "." & Strings.Right(Strings.Format(Timer, "#0.00"), 2) & ".txt" ' Add name to file
+                Set objFile = objFS.CreateTextFile(strFile, False) ' Create file
+                With objFile ' Write data to file
+                    .Write "Sender: " & LCase(senderAddress) & vbCrLf ' Sender email address
+                    .Write "CC: " & LCase(objCC) & vbCrLf ' CC email address
+                    .Write objItem.Body ' Email body, Task to run
+                End With
+                objItem.UnRead = False ' Mark email as read
+            End If ' End subject check
+        End If ' End unread check
+    Next
+    On Error GoTo 0
+    
+    ' Set Objects to ""
+    Set objFS = Nothing
+    Set objFile = Nothing
+    Set objItem = Nothing
+
+End Sub

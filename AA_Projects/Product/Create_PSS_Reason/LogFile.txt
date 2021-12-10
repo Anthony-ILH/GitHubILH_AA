@@ -1,0 +1,6 @@
+(26/11/2021 15:42:21) Chrome Open
+(26/11/2021 15:42:37) Loggrd into OH, opening excel to get data
+(26/11/2021 15:42:37) Starting For each row loop
+(26/11/2021 15:44:05) All data entered - 4 number of rows
+(26/11/2021 15:44:09) Macro complete, sending email
+(26/11/2021 15:44:09) Process Complete, sending email

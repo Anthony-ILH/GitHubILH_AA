@@ -1,0 +1,6 @@
+(11/11/2021 09:20:45) Entered T-CODE
+(11/11/2021 09:21:46) Entered report details
+(11/11/2021 09:21:54) Shift F4 to save file
+(11/11/2021 09:22:01) File saved
+(11/11/2021 09:22:10) Closed Excel
+(11/11/2021 09:22:16) Opening Excel template, about to run Macro

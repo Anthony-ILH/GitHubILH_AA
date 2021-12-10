@@ -1,0 +1,9 @@
+(18/11/2021 10:44:14) On Demand Start
+(18/11/2021 10:44:14) Found File in inbox folder
+(18/11/2021 10:44:15) Notepad open, getting details
+(18/11/2021 10:44:15) Captured variables - From: john.mcguinness@irishlifehealth.ie - CC:  - Task: Split_Billing_Reminder_Letters
+(18/11/2021 10:44:18) Starting email validation process
+(18/11/2021 10:44:31) Found all email addresses, starting task
+(18/11/2021 10:44:31) Starting Task : Split_Billing_Reminder_Letters  
+(18/11/2021 11:12:04) Macro complete, sending email
+(18/11/2021 11:12:04) Process Complete, on demand, sending email

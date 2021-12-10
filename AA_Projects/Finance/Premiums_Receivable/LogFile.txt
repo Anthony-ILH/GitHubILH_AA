@@ -1,0 +1,367 @@
+(25/03/2021 10:03:14) Running Login Metabot
+(25/03/2021 10:03:27) Logged into SAP
+(25/03/2021 10:04:08) Entered report details
+(25/03/2021 10:04:41) Added screenshot into excel doc, SAP sheet
+(25/03/2021 10:04:47) Captured row values from SAP
+(25/03/2021 10:04:51) Added SAP Value into cell N11 in excel SAP tab
+(25/03/2021 10:04:51) Opening Excel template, about to run Macro
+(25/03/2021 10:04:59) Running Login Metabot
+(25/03/2021 10:05:11) Logged into SAP
+(25/03/2021 10:05:45) Entered report details
+(25/03/2021 10:06:04) Entered report details
+(25/03/2021 10:06:53) Added screenshot into excel doc, SAP sheet
+(25/03/2021 10:06:54) Opening Excel template, about to run Macro
+(25/03/2021 10:07:02) Starting FAD06 report download
+(25/03/2021 10:07:45) Entered username and password, waiting for report view page to open
+(25/03/2021 10:08:08) Report viewer page open, clicking FAD06 link
+(25/03/2021 10:08:27) Report FAD06 page open
+(25/03/2021 10:08:29) Report date selected
+(25/03/2021 10:09:22) Added screenshot into excel doc, FDN06 sheet
+(25/03/2021 10:09:23) Report downloaded
+(25/03/2021 10:09:29) Starting FN20 report download
+(25/03/2021 10:09:56) Report viewer page open, clicking FN20 link
+(25/03/2021 10:10:21) FN20 report page open
+(25/03/2021 10:11:06) Report downloaded
+(25/03/2021 10:13:14) Added screenshot into excel doc, MTC sheet
+(25/03/2021 10:14:56) Running Login Metabot
+(25/03/2021 10:15:08) Logged into SAP
+(25/03/2021 10:15:42) Entered T-CODE
+(25/03/2021 10:16:27) Entered report details
+(25/03/2021 10:16:34) Shift F4 to save file
+(25/03/2021 10:16:39) File saved
+(25/03/2021 10:16:45) Closed Excel
+(25/03/2021 10:16:48) Opening Excel template, about to run Macro
+(25/03/2021 10:16:56) Running Login Metabot
+(25/03/2021 10:17:07) Logged into SAP
+(25/03/2021 10:17:42) Entered T-CODE
+(25/03/2021 10:18:07) Entered report details
+(25/03/2021 10:18:14) Shift F4 to save file
+(25/03/2021 10:18:19) File saved
+(25/03/2021 10:18:24) Closed Excel
+(25/03/2021 10:18:52) Process Complete, email sent
+(25/03/2021 10:47:01) Added screenshot into excel doc, MTC sheet
+(25/03/2021 12:03:00) Running Login Metabot
+(25/03/2021 12:03:15) Logged into SAP
+(25/03/2021 12:03:56) Entered report details
+(25/03/2021 12:04:19) Added screenshot into excel doc, SAP sheet
+(25/03/2021 12:04:25) Captured row values from SAP
+(25/03/2021 12:04:29) Added SAP Value into cell N11 in excel SAP tab
+(25/03/2021 12:04:30) Opening Excel template, about to run Macro
+(29/03/2021 13:59:13) Running Login Metabot
+(29/03/2021 14:02:23) Running Login Metabot
+(29/03/2021 14:03:24) Running Login Metabot
+(29/03/2021 14:04:00) Logged into SAP
+(30/03/2021 13:13:28) Running Login Metabot
+(16/04/2021 09:28:35) SAP Open
+(16/04/2021 09:28:41) Entering Username & Password
+(16/04/2021 09:28:44) Logged into SAP
+(16/04/2021 09:29:18) SAP Open
+(16/04/2021 09:29:24) Entering Username & Password
+(16/04/2021 09:29:27) Logged into SAP
+(20/04/2021 15:09:16) Starting FAD06 report download
+(20/04/2021 15:09:22) Entered username and password, waiting for report view page to open
+(20/04/2021 15:09:42) Starting FAD06 report download
+(20/04/2021 15:09:49) Entered username and password, waiting for report view page to open
+(20/04/2021 15:10:14) Report viewer page open, clicking FAD06 link
+(20/04/2021 15:10:29) Report FAD06 page open
+(20/04/2021 15:10:36) Report date selected
+(20/04/2021 15:25:27) Starting FN20 report download
+(20/04/2021 15:26:25) Report viewer page open, clicking FN20 link
+(20/04/2021 15:26:57) FN20 report page open
+(20/04/2021 15:32:15) Starting FN20 report download
+(20/04/2021 15:32:47) Report viewer page open, clicking FN20 link
+(20/04/2021 15:33:12) FN20 report page open
+(20/04/2021 15:33:35) Error Handling error - Unable to find CheckBox. ‘Search Criteria’ did not match. (TYPE_1001)
+(20/04/2021 15:34:16) Starting FN20 report download
+(20/04/2021 15:34:45) Report viewer page open, clicking FN20 link
+(20/04/2021 15:35:07) FN20 report page open
+(20/04/2021 15:40:34) Starting FN20 report download
+(20/04/2021 15:41:04) Report viewer page open, clicking FN20 link
+(20/04/2021 15:41:31) FN20 report page open
+(20/04/2021 15:41:51) Error Handling error - Unable to find CheckBox. ‘Search Criteria’ did not match. (TYPE_1001)
+(20/04/2021 15:52:32) Starting FN20 report download
+(20/04/2021 15:53:01) Report viewer page open, clicking FN20 link
+(20/04/2021 15:53:21) FN20 report page open
+(22/04/2021 14:44:55) SAP Open
+(22/04/2021 14:45:02) Entering Username & Password
+(22/04/2021 14:45:04) Logged into SAP
+(22/04/2021 14:46:08) SAP Open
+(22/04/2021 14:46:17) Entering Username & Password
+(22/04/2021 14:46:20) Logged into SAP
+(22/04/2021 14:47:02) Entered report details
+(22/04/2021 14:47:32) Entered report details
+(22/04/2021 14:48:27) Added screenshot into excel doc, SAP sheet
+(07/05/2021 10:34:58) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(07/05/2021 10:51:00) Error Handling error - Unable to perform 'Click' action. 
+(07/05/2021 10:59:22) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(07/05/2021 11:37:44) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(12/05/2021 11:24:41) Error Handling error - Unable to perform 'Click' action. 
+(12/05/2021 11:47:23) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(25/05/2021 09:26:29) Error Handling error - Cannot find window or application titled 'SAS® Logon Manager - Internet Explorer' that was open during recording.
+(25/05/2021 09:57:13) Error Handling error - Unable to find StaticText. ‘Search Criteria’ did not match.
+(25/05/2021 10:17:57) Error Handling error - Cannot find window or application titled 'Save As' that was open during recording.
+(25/05/2021 10:25:39) Error Handling error - Unable to perform 'LeftClick' action. 
+(25/05/2021 10:51:13) Error Handling error - Unable to perform 'LeftClick' action. 
+(25/05/2021 10:58:15) Error Handling error - Cannot find window or application titled 'PC18_Aged_Debtors_Group_Still_To_Pay - SAS Visual Analytics Viewer - Internet Explorer' that was open during recording.
+(25/05/2021 13:09:13) Error Handling error - Cannot find window or application titled 'SAS® Logon Manager - Google Chrome' that was open during recording.
+(25/05/2021 13:15:54) Error Handling error - Unable to find 'Export data' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(25/05/2021 13:50:01) Error Handling error - Unable to find 'Export data' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(25/05/2021 14:59:18) Error Handling error - Cannot find window or application titled 'Save As' that was open during recording.
+(26/05/2021 14:50:41) Starting FAD06 report download
+(26/05/2021 14:51:31) Error Handling error - Cannot find window or application titled 'Privacy error - Google Chrome' that was open during recording.
+(26/05/2021 14:52:14) Starting FAD06 report download
+(26/05/2021 14:52:53) Error Handling error - Cannot find window or application titled 'Privacy error - Google Chrome' that was open during recording.
+(26/05/2021 15:01:52) Starting FAD06 report download
+(26/05/2021 15:02:20) Entered username and password, waiting for report view page to open
+(26/05/2021 15:04:43) Starting FAD06 report download
+(26/05/2021 15:05:18) Error Handling error - Cannot find window or application titled 'Google - Google Chrome' that was open during recording.
+(26/05/2021 15:05:56) Starting FAD06 report download
+(26/05/2021 15:06:27) Entered username and password, waiting for report view page to open
+(26/05/2021 15:06:48) Report viewer page open, clicking FAD06 link
+(26/05/2021 15:07:45) Starting FAD06 report download
+(26/05/2021 15:08:17) Entered username and password, waiting for report view page to open
+(26/05/2021 15:08:32) Report viewer page open, clicking FAD06 link
+(26/05/2021 15:11:12) Starting FAD06 report download
+(26/05/2021 15:11:45) Entered username and password, waiting for report view page to open
+(26/05/2021 15:11:59) Report viewer page open, clicking FAD06 link
+(26/05/2021 15:12:04) Report FAD06 page open
+(26/05/2021 15:12:09) Report date selected
+(26/05/2021 15:13:47) Added screenshot into excel doc, FDN06 sheet
+(26/05/2021 15:13:52) Report downloaded
+(26/05/2021 15:18:52) Starting FAD06 report download
+(26/05/2021 15:19:21) Entered username and password, waiting for report view page to open
+(26/05/2021 15:19:35) Report viewer page open, clicking FAD06 link
+(26/05/2021 15:19:40) Report FAD06 page open
+(26/05/2021 15:19:50) Report date selected
+(26/05/2021 15:20:54) Starting FAD06 report download
+(26/05/2021 15:21:25) Entered username and password, waiting for report view page to open
+(26/05/2021 15:21:38) Report viewer page open, clicking FAD06 link
+(26/05/2021 15:21:48) Report FAD06 page open
+(26/05/2021 15:21:54) Report date selected
+(26/05/2021 15:23:39) Added screenshot into excel doc, FDN06 sheet
+(26/05/2021 15:23:45) Report downloaded
+(27/05/2021 08:37:11) Starting FN20 report download
+(27/05/2021 08:37:19) Error Handling error - Cannot find window or application titled 'Google - Google Chrome' that was open during recording.
+(27/05/2021 08:37:42) Starting FN20 report download
+(27/05/2021 08:38:19) Report viewer page open, clicking FN20 link
+(27/05/2021 08:38:30) FN20 report page open
+(27/05/2021 08:38:52) Error Handling error - Unable to find CheckBox. ‘Search Criteria’ did not match. (TYPE_1001)
+(27/05/2021 09:50:28) Starting FN20 report download
+(27/05/2021 09:51:09) Report viewer page open, clicking FN20 link
+(27/05/2021 09:51:21) FN20 report page open
+(27/05/2021 09:52:01) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(27/05/2021 10:20:08) Starting FN20 report download
+(27/05/2021 10:20:47) Report viewer page open, clicking FN20 link
+(27/05/2021 10:21:00) FN20 report page open
+(27/05/2021 10:22:15) Error Handling error - Unable to perform 'LeftClick' action. 
+(27/05/2021 11:05:25) Starting FN20 report download
+(27/05/2021 11:06:04) Error Handling error - Unable to find 'SAS® Logon Manager' StaticText. ‘Search Criteria’ did not match. (TYPE_1001)
+(27/05/2021 11:07:58) Starting FN20 report download
+(27/05/2021 11:08:41) Error Handling error - Cannot find window or application titled 'SAS® Logon Manager - Google Chrome' that was open during recording.
+(27/05/2021 11:29:33) Starting FN20 report download
+(27/05/2021 11:30:34) Report viewer page open, clicking FN20 link
+(27/05/2021 11:30:45) FN20 report page open
+(27/05/2021 11:32:40) Error Handling error - Unable to perform 'LeftClick' action. 
+(27/05/2021 12:11:43) Starting FN20 report download
+(27/05/2021 12:12:25) Report viewer page open, clicking FN20 link
+(27/05/2021 12:12:31) FN20 report page open
+(27/05/2021 12:14:16) Report downloaded
+(27/05/2021 12:14:54) Starting FN20 report download
+(27/05/2021 12:15:23) Report viewer page open, clicking FN20 link
+(27/05/2021 12:15:26) FN20 report page open
+(27/05/2021 12:16:21) Report downloaded
+(03/06/2021 12:22:15) Error Handling error - Cannot find window or application titled 'Google - Google Chrome' that was open during recording.
+(30/06/2021 10:15:24) Error Handling error - Cannot find window or application titled 'PC10 Corporate MemberPays Outstanding Amts - SAS Visual Analytics Viewer - Google Chrome' that was open during recording.
+(30/06/2021 10:27:57) Error Handling error - Unable to find Pane. ‘Search Criteria’ did not match.
+(06/07/2021 08:41:07) Starting FAD06 report download
+(06/07/2021 08:41:22) Entered username and password, waiting for report view page to open
+(06/07/2021 08:41:33) Report viewer page open, clicking FAD06 link
+(06/07/2021 08:41:35) Report FAD06 page open
+(06/07/2021 08:41:54) Error Handling error - Unable to perform 'LeftClick' action. 
+(06/07/2021 08:41:59) Starting FAD06 report download
+(06/07/2021 08:42:30) Error Handling error - Unable to find 'SAS® Logon Manager' StaticText. ‘Search Criteria’ did not match. (TYPE_1001)
+(06/07/2021 08:42:54) Starting FAD06 report download
+(06/07/2021 08:43:14) Entered username and password, waiting for report view page to open
+(06/07/2021 08:43:29) Report viewer page open, clicking FAD06 link
+(06/07/2021 08:43:32) Report FAD06 page open
+(06/07/2021 08:43:37) Report date selected
+(06/07/2021 08:45:27) Error Handling error - Cannot find window or application titled 'Template_Premium_Receivable_Reconciliation - Excel' that was open during recording.
+(06/07/2021 08:46:25) Starting FAD06 report download
+(06/07/2021 08:46:46) Entered username and password, waiting for report view page to open
+(06/07/2021 08:47:00) Report viewer page open, clicking FAD06 link
+(06/07/2021 08:47:04) Report FAD06 page open
+(06/07/2021 08:47:09) Report date selected
+(06/07/2021 08:48:55) Error Handling error - Cannot find window or application titled 'Template_Premium_Receivable_Reconciliation - Excel' that was open during recording.
+(06/07/2021 08:49:53) Starting FN20 report download
+(06/07/2021 08:50:31) Report viewer page open, clicking FN20 link
+(06/07/2021 08:51:36) Starting FN20 report download
+(06/07/2021 08:52:04) Report viewer page open, clicking FN20 link
+(06/07/2021 08:56:25) Starting FN20 report download
+(06/07/2021 08:56:52) Report viewer page open, clicking FN20 link
+(06/07/2021 08:56:54) FN20 report page open
+(06/07/2021 08:57:50) Report downloaded
+(06/07/2021 09:02:51) Added screenshot into excel doc, MTC sheet
+(06/07/2021 09:03:06) Error Handling error - Cannot find window or application titled 'Google - Google Chrome' that was open during recording.
+(06/07/2021 09:05:45) Error Handling error - Cannot find window or application titled 'Google - Google Chrome' that was open during recording.
+(08/07/2021 11:15:55) Error Handling error - Sorry, we couldn't find C:\Users\D194\Documents\AA_Projects\Corporate\Group_Scheme_Policies\Downloaded\Template_Group_Policy_Reports.xlsb. Is it possible it was moved, renamed or deleted?
+(08/07/2021 11:23:03) Error Handling error - Sorry, we couldn't find C:\Users\D194\Documents\AA_Projects\Corporate\Group_Scheme_Policies\Downloaded\Template_Group_Policy_Reports.xlsb. Is it possible it was moved, renamed or deleted?
+(08/07/2021 11:24:12) Error Handling error - Sorry, we couldn't find C:\Users\D194\Documents\AA_Projects\Corporate\Group_Scheme_Policies\Downloaded\Template_Group_Policy_Reports.xlsb. Is it possible it was moved, renamed or deleted?
+(08/07/2021 11:25:55) Error Handling error - Sorry, we couldn't find C:\Users\D194\Documents\AA_Projects\Corporate\Group_Scheme_Policies\Downloaded\Template_Group_Policy_Reports.xlsb. Is it possible it was moved, renamed or deleted?
+(09/07/2021 09:49:22) Error Handling error - The Excel spreadsheet contains any/all of following:
+- Empty header(s)
+- Duplicate header name(s)
+- Invalid cell range
+(09/07/2021 09:51:49) Error Handling error - The Excel spreadsheet contains any/all of following:
+- Empty header(s)
+- Duplicate header name(s)
+- Invalid cell range
+(09/07/2021 09:54:38) Error Handling error - Unable to perform 'GetProperty' action. 
+(09/07/2021 15:44:36) Error Handling error - Unable to perform 'SetText' action. 
+(12/07/2021 08:51:34) Error Handling error - Unable to find StaticText. ‘Search Criteria’ did not match.
+(12/07/2021 15:06:52) Error Handling error - Unable to perform 'SetText' action. 
+(16/07/2021 10:26:13) Error Handling error - Unable to perform 'LeftClick' action. 
+(16/07/2021 10:30:06) Error Handling error - Unable to perform 'LeftClick' action. 
+(20/07/2021 08:44:05) Error Handling error - Cannot find window or application titled 'Save As' that was open during recording.
+(22/07/2021 14:55:56) Error Handling error - Unable to perform 'GetTotalRows' action. 
+(22/07/2021 14:57:47) Error Handling error - Unable to find TextBox. ‘Search Criteria’ did not match.
+(27/07/2021 11:12:02) Error Handling error - Cannot find window or application titled '* OPEN - Log In - Google Chrome' that was open during recording.
+(27/07/2021 11:15:35) Error Handling error - Cannot find any open spreadsheet command using session name "S2"
+(28/07/2021 14:20:50) Starting FAD06 report download
+(28/07/2021 14:21:10) Entered username and password, waiting for report view page to open
+(28/07/2021 14:21:21) Report viewer page open, clicking FAD06 link
+(28/07/2021 14:21:25) Report FAD06 page open
+(28/07/2021 14:21:27) Report date selected
+(28/07/2021 14:21:34) Error Handling error - Unable to perform 'Click' action. 
+(28/07/2021 14:22:02) Starting FAD06 report download
+(28/07/2021 14:22:29) Entered username and password, waiting for report view page to open
+(28/07/2021 14:22:42) Report viewer page open, clicking FAD06 link
+(28/07/2021 14:22:46) Report FAD06 page open
+(28/07/2021 14:22:50) Report date selected
+(28/07/2021 14:23:18) Starting FAD06 report download
+(28/07/2021 14:23:37) Entered username and password, waiting for report view page to open
+(28/07/2021 14:23:49) Report viewer page open, clicking FAD06 link
+(28/07/2021 14:23:49) Report FAD06 page open
+(28/07/2021 14:23:52) Report date selected
+(28/07/2021 14:25:40) Starting FAD06 report download
+(28/07/2021 14:25:59) Entered username and password, waiting for report view page to open
+(28/07/2021 14:26:10) Report viewer page open, clicking FAD06 link
+(28/07/2021 14:26:11) Report FAD06 page open
+(28/07/2021 14:26:14) Report date selected
+(28/07/2021 14:28:21) Starting FAD06 report download
+(28/07/2021 14:28:41) Entered username and password, waiting for report view page to open
+(28/07/2021 14:28:51) Report viewer page open, clicking FAD06 link
+(28/07/2021 14:28:52) Report FAD06 page open
+(28/07/2021 14:28:57) Report date selected
+(28/07/2021 14:29:56) Added screenshot into excel doc, FDN06 sheet
+(28/07/2021 14:29:58) Report downloaded
+(06/08/2021 09:32:17) Error Handling error - Unable to find 'SPLITBUTTON' control.
+(06/08/2021 09:36:29) Error Handling error - Unable to find 'SPLITBUTTON' control.
+(06/08/2021 09:42:57) Error Handling error - Unable to find 'SPLITBUTTON' control.
+(06/08/2021 10:31:01) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Split_Billing\Reminder_Letter\Downloaded\PDF_Files\VIVG424030' that you are trying to open, could not be found.
+(06/08/2021 10:38:40) Error Handling error - Unable to find 'Tools' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(06/08/2021 14:03:24) Error Handling error - Cannot find window or application titled '*.pdf - Adobe Acrobat Pro 2017' that was open during recording.
+(10/08/2021 08:59:51) Error Handling error - Cannot find window or application titled '* OPEN - Log In - Google Chrome' that was open during recording.
+(10/08/2021 09:03:17) Error Handling error - Unable to perform 'GetProperty' action. 
+(10/08/2021 10:07:43) Error Handling error - Cannot find any open spreadsheet command using session name "S2"
+(11/08/2021 08:40:11) Error Handling error - Cannot find window or application titled '* - OPEN Health - Google Chrome' that was open during recording.
+(11/08/2021 08:45:28) Error Handling error - Unable to perform 'GetProperty' action. 
+(11/08/2021 08:55:44) Error Handling error - One of the Excel cells is in edit mode. Cannot execute SetCell command when an Excel cell is being edited.
+(11/08/2021 09:12:46) Error Handling error - Unable to perform 'SetText' action. 
+(17/08/2021 14:47:53) Error Handling error - Unable to perform 'Click' action. 
+(17/08/2021 14:50:15) Error Handling error - Unable to perform 'Click' action. 
+(17/08/2021 15:04:57) Error Handling error - Cannot find window or application titled '* OPEN - Log In - Google Chrome' that was open during recording.
+(19/08/2021 15:29:37) Error Handling error - Cannot find window or application titled '*_Reminder.pdf - Adobe Acrobat Pro 2017' that was open during recording.
+(19/08/2021 15:53:24) Error Handling error - Cannot find window or application titled '*_Reminder.pdf - Adobe Acrobat Pro 2017' that was open during recording.
+(20/08/2021 08:43:23) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Split_Billing\Reminder_Letter\Final Reminder - Split Billing.pdf' that you are trying to open, could not be found.
+(24/08/2021 12:07:09) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Split_Billing\Reminder_Letter\Downloaded\PDF_Files\VIVG607261.pdf' that you are trying to open, could not be found.
+(24/08/2021 12:10:01) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Split_Billing\Reminder_Letter\Downloaded\PDF_Files\VIVG607261.pdf' that you are trying to open, could not be found.
+(24/08/2021 12:14:05) Error Handling error - Cannot find window or application titled 'Adobe Acrobat - Confirm Document Open Password' that was open during recording.
+(25/08/2021 08:47:15) Error Handling error - Cannot find window or application titled 'Save Print Output As' that was open during recording.
+(25/08/2021 08:49:25) Error Handling error - Unable to find 'No' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(25/08/2021 08:51:49) Error Handling error - Unable to find 'No' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(25/08/2021 08:55:12) Error Handling error - Unable to find 'Close all tabs' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(25/08/2021 10:59:24) Error Handling error - Unable to find 'Close all tabs' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(26/08/2021 10:24:18) Error Handling error - The response for this request has timed out.
+(26/08/2021 10:25:54) Error Handling error - The response for this request has timed out.
+(30/08/2021 14:51:19) Error Handling error - Unable to find 'Close all tabs' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(30/08/2021 14:54:21) Error Handling error - Unable to find 'Close all tabs' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)
+(06/09/2021 11:03:28) SAP Open
+(06/09/2021 11:03:35) Entering Username & Password
+(06/09/2021 11:03:38) Logged into SAP
+(06/09/2021 11:09:10) SAP Open
+(06/09/2021 11:09:17) Entering Username & Password
+(06/09/2021 11:09:19) Logged into SAP
+(06/09/2021 11:11:29) SAP Open
+(06/09/2021 11:11:36) Entering Username & Password
+(06/09/2021 11:11:38) Logged into SAP
+(06/09/2021 11:19:03) SAP Open
+(06/09/2021 11:19:10) Entering Username & Password
+(06/09/2021 11:19:12) Logged into SAP
+(06/09/2021 14:26:50) SAP Open
+(06/09/2021 14:26:56) Entering Username & Password
+(06/09/2021 14:26:59) Logged into SAP
+(06/09/2021 15:06:46) SAP Open
+(06/09/2021 15:06:53) Entering Username & Password
+(06/09/2021 15:06:55) Logged into SAP
+(06/09/2021 15:41:41) SAP Open
+(06/09/2021 15:42:18) SAP Open
+(06/09/2021 15:42:25) Entering Username & Password
+(06/09/2021 15:42:27) Logged into SAP
+(07/09/2021 09:36:45) Error Handling error - Can not run the macro 'Filter_Dependants'. The macro may not be available in this workbook or all macros may be disabled.
+(09/09/2021 10:08:17) Error Handling error - Can not run the macro 'Filter_Dependants'. The macro may not be available in this workbook or all macros may be disabled.
+(07/10/2021 12:30:39) Error Handling error - Can not run the macro 'Filter_Dependants'. The macro may not be available in this workbook or all macros may be disabled.
+(11/10/2021 11:05:02) Error Handling error - Can not run the macro 'Filter_Dependants'. The macro may not be available in this workbook or all macros may be disabled.
+(12/10/2021 14:13:46) Error Handling error - Unable to perform 'Click' action. 
+(12/10/2021 14:16:09) Error Handling error - Unable to find TextBox. ‘Search Criteria’ did not match.
+(12/10/2021 14:17:45) Error Handling error - Unable to perform 'Click' action. 
+(12/10/2021 14:19:44) Error Handling error - Unable to perform 'Click' action. 
+(12/10/2021 14:22:57) Error Handling error - Unable to perform 'Click' action. 
+(12/10/2021 14:26:23) Error Handling error - Unable to perform 'Click' action. 
+(12/10/2021 14:35:45) Error Handling error - Unable to perform 'Click' action. 
+(15/10/2021 09:01:15) Error Handling error - The response for this request has timed out.
+(15/10/2021 09:42:05) Error Handling error - The response for this request has timed out.
+(18/10/2021 09:38:59) Error Handling error - Cannot find window or application titled '* - Google Chrome' that was open during recording.
+(18/10/2021 09:41:03) Error Handling error - Unable to perform 'LeftClick' action. 
+(18/10/2021 10:36:34) SAP Open
+(18/10/2021 10:36:42) Entering Username & Password
+(18/10/2021 10:36:44) Logged into SAP
+(18/10/2021 10:42:23) SAP Open
+(18/10/2021 10:42:29) Entering Username & Password
+(18/10/2021 10:42:31) Logged into SAP
+(18/10/2021 16:26:23) Error Handling error - Unable to find StaticText. ‘Search Criteria’ did not match.
+(18/10/2021 16:34:56) Error Handling error - Unable to find StaticText. ‘Search Criteria’ did not match.
+(11/11/2021 09:19:18) SAP Open
+(11/11/2021 09:20:25) SAP Open
+(11/11/2021 09:20:32) Entering Username & Password
+(11/11/2021 09:20:36) Logged into SAP
+(11/11/2021 10:51:16) SAP Open
+(11/11/2021 10:51:24) Entering Username & Password
+(11/11/2021 10:51:27) Logged into SAP
+(11/11/2021 10:55:42) SAP Open
+(11/11/2021 10:55:50) Entering Username & Password
+(11/11/2021 10:55:53) Logged into SAP
+(19/11/2021 13:55:47) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Aged_Debt\Reminder_Letter\Invoice\First Payment Reminder - Invouice.pdf' that you are trying to open, could not be found.
+(19/11/2021 13:57:47) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Aged_Debt\Reminder_Letter\Invoice\First Payment Reminder - Invouice.pdf' that you are trying to open, could not be found.
+(19/11/2021 14:09:42) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Aged_Debt\Reminder_Letter\Invoice\First Reminder - Invouice.pdf' that you are trying to open, could not be found.
+(19/11/2021 14:12:57) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Aged_Debt\Reminder_Letter\Invoice\First Reminder - Invouice.pdf' that you are trying to open, could not be found.
+(19/11/2021 14:18:07) Error Handling error - The Program/File 'C:\Users\D194\Documents\AA_Projects\Corporate\Aged_Debt\Reminder_Letter\Downloaded\PDF_Files\COINBASE IRELAND_3118069' that you are trying to open, could not be found.
+(22/11/2021 11:17:14) SAP Open
+(22/11/2021 11:17:29) Entering Username & Password
+(22/11/2021 11:17:31) Logged into SAP
+(22/11/2021 11:22:23) SAP Open
+(22/11/2021 11:22:29) Entering Username & Password
+(22/11/2021 11:22:34) Logged into SAP
+(22/11/2021 11:24:56) SAP Open
+(22/11/2021 11:25:03) Entering Username & Password
+(22/11/2021 11:25:07) Logged into SAP
+(26/11/2021 11:09:22) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 11:58:57) Error Handling error - One of the Excel cells is in edit mode. Cannot execute SetCell command when an Excel cell is being edited.
+(30/11/2021 14:45:24) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 15:33:56) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 15:39:09) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 15:43:18) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 15:53:18) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 16:02:27) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(30/11/2021 16:04:18) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(01/12/2021 09:11:33) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+(01/12/2021 09:20:05) Error Handling error - The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
