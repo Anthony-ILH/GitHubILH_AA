@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Cash_Matching.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/18/2022 10:48:15</Property>
+      <Property Name="RunDuration">00:02:04</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AIB_Cash_Matching.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/18/2022 10:44:52</Property>
+      <Property Name="RunDuration">00:02:37</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

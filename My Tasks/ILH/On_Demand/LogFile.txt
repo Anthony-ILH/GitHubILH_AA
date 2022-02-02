@@ -1,0 +1,7 @@
+(05/11/2021 10:36:31) On Demand Start
+(05/11/2021 10:36:31) Found File in inbox folder
+(05/11/2021 10:36:31) Notepad open, getting details
+(05/11/2021 10:36:31) Captured variables - From: anthony.slator@irishlifehealth.ie - CC:  - Task: Hyperscience_Upload
+(05/11/2021 10:36:34) Starting email validation process
+(05/11/2021 10:36:42) Found all email addresses, starting task
+(05/11/2021 10:36:43) Starting Task : Hyperscience_Upload  

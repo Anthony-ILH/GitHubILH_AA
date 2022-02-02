@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Testing.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/28/2021 14:27:30</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Premiums_Receivable_SAP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/04/2021 14:11:04</Property>
+      <Property Name="RunDuration">00:01:48</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Premiums_Receivable_SAP_Timestamp.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/05/2021 09:34:26</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAP_Timestamp.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/22/2021 14:45:36</Property>
+      <Property Name="RunDuration">00:00:51</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/11/2021 09:27:02</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAS_FAD06.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/20/2021 15:10:42</Property>
+      <Property Name="RunDuration">00:01:05</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAS_FN20.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/20/2021 15:54:12</Property>
+      <Property Name="RunDuration">00:01:44</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAS_MTC01.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/21/2021 08:55:39</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_RunTasks.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/19/2021 09:40:04</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAP_PC30.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/25/2021 10:16:51</Property>
+      <Property Name="RunDuration">00:01:59</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAS_PC30.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/25/2021 10:14:51</Property>
+      <Property Name="RunDuration">00:01:34</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_SAP_Clearing_DD.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/25/2021 10:18:27</Property>
+      <Property Name="RunDuration">00:01:36</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PR_OHLive.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/22/2021 08:43:30</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>

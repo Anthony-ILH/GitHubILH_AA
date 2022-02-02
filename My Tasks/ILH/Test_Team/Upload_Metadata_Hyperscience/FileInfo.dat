@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Upload_Metadata_Hyperscience.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/28/2021 08:30:57</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Testing.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2021 15:32:00</Property>
+      <Property Name="RunDuration">00:00:38</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Upload_Metadata.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/24/2021 10:51:11</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
